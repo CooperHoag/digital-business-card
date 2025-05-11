@@ -1,0 +1,25 @@
+img {
+  border: 10px solid grey;
+}
+
+h1 {
+  color: darkred;
+}
+
+button:hover {
+  background-color:lightpink;
+  cursor: pointer;
+}
+
+body {
+  background-color: lightblue
+}
+
+.card {
+  background-color: lightyellow;
+  padding: 20px;
+  margin: 40px auto;
+  border-radius: 20px;
+  width: 80%;
+  max-width: 600px;
+}
